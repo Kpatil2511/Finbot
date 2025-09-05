@@ -1,0 +1,380 @@
+{
+  "qa_pairs": [
+    {
+      "question": "What is a stock market?",
+      "answer": "A stock market is a marketplace where shares of publicly held companies are bought and sold."
+    },
+    {
+      "question": "What is a share?",
+      "answer": "A share represents a unit of ownership in a company."
+    },
+    {
+      "question": "What is an IPO?",
+      "answer": "IPO stands for Initial Public Offering, which is the first sale of a company's shares to the public."
+    },
+    {
+      "question": "What is a bull market?",
+      "answer": "A bull market is a market condition where prices are rising or expected to rise."
+    },
+    {
+      "question": "What is a bear market?",
+      "answer": "A bear market is a market condition where prices are falling or expected to fall."
+    },
+    {
+      "question": "What is a dividend?",
+      "answer": "A dividend is a portion of a company's earnings distributed to shareholders."
+    },
+    {
+      "question": "What is market capitalization?",
+      "answer": "Market capitalization is the total market value of a company's outstanding shares."
+    },
+    {
+      "question": "What is a stock exchange?",
+      "answer": "A stock exchange is a regulated marketplace where securities are bought and sold."
+    },
+    {
+      "question": "What is a broker?",
+      "answer": "A broker is an individual or firm that executes buy and sell orders on behalf of investors."
+    },
+    {
+      "question": "What is diversification?",
+      "answer": "Diversification is an investment strategy that spreads risk by investing in different assets."
+    },
+    {
+      "question": "What is a mutual fund?",
+      "answer": "A mutual fund pools money from many investors to invest in a diversified portfolio of securities."
+    },
+    {
+      "question": "What is a portfolio?",
+      "answer": "A portfolio is a collection of investments owned by an individual or institution."
+    },
+    {
+      "question": "What is a stock index?",
+      "answer": "A stock index measures the performance of a group of stocks representing a market or sector."
+    },
+    {
+      "question": "What is the difference between a stock and a bond?",
+      "answer": "A stock represents ownership in a company, while a bond is a loan made to a company or government."
+    },
+    {
+      "question": "What is liquidity in the stock market?",
+      "answer": "Liquidity refers to how easily an asset can be bought or sold without affecting its price."
+    },
+    {
+      "question": "What is a limit order?",
+      "answer": "A limit order is an order to buy or sell a stock at a specific price or better."
+    },
+    {
+      "question": "What is a market order?",
+      "answer": "A market order is an order to buy or sell a stock immediately at the current market price."
+    },
+    {
+      "question": "What is insider trading?",
+      "answer": "Insider trading is buying or selling stocks based on non-public, material information."
+    },
+    {
+      "question": "What is a stop-loss order?",
+      "answer": "A stop-loss order is an order to sell a stock when it reaches a certain price to limit losses."
+    },
+    {
+      "question": "What is fundamental analysis?",
+      "answer": "Fundamental analysis evaluates a company's financial health and prospects to determine stock value."
+    },
+    {
+      "question": "What is technical analysis?",
+      "answer": "Technical analysis studies past market data, primarily price and volume, to forecast future price movements."
+    },
+    {
+      "question": "What is a blue-chip stock?",
+      "answer": "A blue-chip stock is a share in a large, well-established, and financially sound company."
+    },
+    {
+      "question": "What is a penny stock?",
+      "answer": "A penny stock is a low-priced, small-cap stock that is highly speculative and risky."
+    },
+    {
+      "question": "What is a stock split?",
+      "answer": "A stock split increases the number of shares by dividing existing shares, reducing the price per share."
+    },
+    {
+      "question": "What is a dividend yield?",
+      "answer": "Dividend yield is the dividend per share divided by the stock price, expressed as a percentage."
+    },
+    {
+      "question": "What is a circuit breaker in stock markets?",
+      "answer": "A circuit breaker temporarily halts trading to prevent panic selling during sharp market declines."
+    },
+    {
+      "question": "What is a margin account?",
+      "answer": "A margin account allows investors to borrow money from a broker to buy securities."
+    },
+    {
+      "question": "What is short selling?",
+      "answer": "Short selling is selling borrowed shares with the hope of buying them back at a lower price."
+    },
+    {
+      "question": "What is an ETF?",
+      "answer": "An ETF (Exchange-Traded Fund) is a fund traded on stock exchanges, holding assets like stocks or bonds."
+    },
+    {
+      "question": "What is the role of SEBI?",
+      "answer": "SEBI (Securities and Exchange Board of India) regulates and protects investors in the Indian securities market."
+    },
+    {
+      "question": "What is a stockbroker's demat account?",
+      "answer": "A demat account holds shares in electronic form for trading and settlement."
+    },
+    {
+      "question": "What is volatility in the stock market?",
+      "answer": "Volatility refers to the degree of variation in stock prices over time."
+    },
+    {
+      "question": "What is a trading volume?",
+      "answer": "Trading volume is the number of shares or contracts traded in a security or market during a given period."
+    },
+    {
+      "question": "What is a price-to-earnings (P/E) ratio?",
+      "answer": "P/E ratio is the stock price divided by earnings per share, indicating how much investors pay per unit of earnings."
+    },
+    {
+      "question": "What is a bear trap?",
+      "answer": "A bear trap is a false signal indicating a declining market, which reverses and moves upward."
+    },
+    {
+      "question": "What is a bull trap?",
+      "answer": "A bull trap is a false signal indicating a rising market, which reverses and moves downward."
+    },
+    {
+      "question": "What is a candlestick chart?",
+      "answer": "A candlestick chart displays price movements of a security using candlestick-shaped bars."
+    },
+    {
+      "question": "What is a moving average?",
+      "answer": "A moving average smooths out price data to identify trends over a specific period."
+    },
+    {
+      "question": "What is a stop-limit order?",
+      "answer": "A stop-limit order becomes a limit order once a specified stop price is reached."
+    },
+    {
+      "question": "What is a yield curve?",
+      "answer": "A yield curve plots interest rates of bonds with different maturities, indicating economic expectations."
+    },
+    {
+      "question": "What is a blue-chip company?",
+      "answer": "A blue-chip company is a large, financially stable, and well-established company with a history of reliable performance."
+    },
+    {
+      "question": "What is an arbitrage opportunity?",
+      "answer": "Arbitrage is the simultaneous purchase and sale of an asset to profit from price differences in different markets."
+    },
+    {
+      "question": "What is a stock buyback?",
+      "answer": "A stock buyback is when a company repurchases its own shares from the market."
+    },
+    {
+      "question": "What is a financial derivative?",
+      "answer": "A derivative is a financial contract whose value depends on the price of an underlying asset."
+    },
+    {
+      "question": "What is a call option?",
+      "answer": "A call option gives the buyer the right, but not the obligation, to buy an asset at a set price before a certain date."
+    },
+    {
+      "question": "What is a put option?",
+      "answer": "A put option gives the buyer the right, but not the obligation, to sell an asset at a set price before a certain date."
+    },
+    {
+      "question": "What is a stop order?",
+      "answer": "A stop order is an order to buy or sell a stock once it reaches a specified price."
+    },
+    {
+      "question": "What is a market correction?",
+      "answer": "A market correction is a short-term decline of 10% or more in stock prices after a recent peak."
+    },
+    {
+      "question": "What is a blue-chip stock?",
+      "answer": "A blue-chip stock is a share of a large, reputable, and financially sound company."
+    },
+    {
+      "question": "What is a stock dividend?",
+      "answer": "A stock dividend is a dividend paid in additional shares rather than cash."
+    },
+    {
+      "question": "What is a growth stock?",
+      "answer": "A growth stock is a share in a company expected to grow earnings at an above-average rate."
+    },
+    {
+      "question": "What is a value stock?",
+      "answer": "A value stock is a share that appears undervalued compared to its fundamentals."
+    },
+    {
+      "question": "What is a speculative stock?",
+      "answer": "A speculative stock is a high-risk stock with potential for significant returns."
+    },
+    {
+      "question": "What is a stock market index?",
+      "answer": "A stock market index tracks the performance of a group of stocks representing a market segment."
+    },
+    {
+      "question": "What is a dividend reinvestment plan (DRIP)?",
+      "answer": "A DRIP allows investors to reinvest dividends to purchase more shares automatically."
+    },
+    {
+      "question": "What is a financial year?",
+      "answer": "A financial year is a 12-month period used for accounting and tax purposes."
+    },
+    {
+      "question": "What is a stock exchange listing?",
+      "answer": "Listing is the process by which a company's shares are admitted to trading on a stock exchange."
+    },
+    {
+      "question": "What is a stockbroker?",
+      "answer": "A stockbroker is a professional who buys and sells stocks on behalf of clients."
+    },
+    {
+      "question": "What is a dematerialized account (demat)?",
+      "answer": "A demat account holds shares electronically, eliminating the need for physical certificates."
+    },
+    {
+      "question": "What is a stock market crash?",
+      "answer": "A stock market crash is a sudden and severe drop in stock prices."
+    },
+    {
+      "question": "What is a portfolio manager?",
+      "answer": "A portfolio manager manages investment portfolios on behalf of clients."
+    },
+    {
+      "question": "What is a financial advisor?",
+      "answer": "A financial advisor provides guidance on investments and financial planning."
+    },
+    {
+      "question": "What is a stock split?",
+      "answer": "A stock split increases the number of shares by dividing existing shares, reducing the price per share."
+    },
+    {
+      "question": "What is a market capitalization?",
+      "answer": "Market capitalization is the total value of a company's outstanding shares."
+    },
+    {
+      "question": "What is a stock option?",
+      "answer": "A stock option is a contract giving the right to buy or sell stock at a specific price before a certain date."
+    },
+    {
+      "question": "What is a financial instrument?",
+      "answer": "A financial instrument is a contract representing a financial asset or liability."
+    },
+    {
+      "question": "What is a stock market bubble?",
+      "answer": "A bubble is a market condition where prices are inflated beyond their intrinsic value."
+    },
+    {
+      "question": "What is a stop-loss?",
+      "answer": "A stop-loss is an order to sell a security when it reaches a certain price to limit losses."
+    },
+    {
+      "question": "What is a trading strategy?",
+      "answer": "A trading strategy is a plan for buying and selling securities to achieve investment goals."
+    },
+    {
+      "question": "What is a financial risk?",
+      "answer": "Financial risk is the possibility of losing money on an investment."
+    },
+    {
+      "question": "What is an asset allocation?",
+      "answer": "Asset allocation is the process of dividing investments among different asset categories."
+    },
+    {
+      "question": "What is a stock market index fund?",
+      "answer": "An index fund is a mutual fund or ETF designed to track a stock market index."
+    },
+    {
+      "question": "What is a blue-chip stock?",
+      "answer": "A blue-chip stock is a share of a large, financially stable company with a history of reliable performance."
+    },
+    {
+      "question": "What is a dividend payout ratio?",
+      "answer": "The dividend payout ratio is the percentage of earnings paid to shareholders as dividends."
+    },
+    {
+      "question": "What is a financial statement?",
+      "answer": "A financial statement is a formal record of a company's financial activities."
+    },
+    {
+      "question": "What is a stock market trend?",
+      "answer": "A trend is the general direction in which stock prices move over time."
+    },
+    {
+      "question": "What is a stock market rally?",
+      "answer": "A rally is a rapid increase in stock prices after a period of decline."
+    },
+    {
+      "question": "What is a stock market correction?",
+      "answer": "A correction is a short-term decline of 10% or more in stock prices."
+    },
+    {
+      "question": "What is a financial analyst?",
+      "answer": "A financial analyst evaluates investments and provides recommendations."
+    },
+    {
+      "question": "What is a stock market order?",
+      "answer": "A stock market order is an instruction to buy or sell a security."
+    },
+    {
+      "question": "What is a stock market ticker?",
+      "answer": "A ticker displays real-time stock prices and trading information."
+    },
+    {
+      "question": "What is a stock market volatility?",
+      "answer": "Volatility is the degree of variation in stock prices over time."
+    },
+    {
+      "question": "What is a stock market index?",
+      "answer": "An index measures the performance of a group of stocks."
+    },
+    {
+      "question": "What is a stock market investor?",
+      "answer": "An investor buys stocks to earn returns over time."
+    },
+    {
+      "question": "What is a stock market speculation?",
+      "answer": "Speculation involves buying stocks with the hope of quick profits."
+    },
+    {
+      "question": "What is a stock market regulation?",
+      "answer": "Regulation involves rules to ensure fair and transparent trading."
+    },
+    {
+      "question": "What is a stock market liquidity?",
+      "answer": "Liquidity is how easily stocks can be bought or sold."
+    },
+    {
+      "question": "What is a stock market capitalization?",
+      "answer": "Market capitalization is the total value of a company's shares."
+    },
+    {
+      "question": "What is a stock market broker?",
+      "answer": "A broker facilitates buying and selling of stocks."
+    },
+    {
+      "question": "What is a stock market portfolio?",
+      "answer": "A portfolio is a collection of investments."
+    },
+    {
+      "question": "What is a stock market dividend?",
+      "answer": "A dividend is a payment to shareholders from profits."
+    },
+    {
+      "question": "What is a stock market risk?",
+      "answer": "Risk is the chance of losing money on investments."
+    },
+    {
+      "question": "What is a stock market return?",
+      "answer": "Return is the profit or loss from an investment."
+    },
+    {
+      "question": "What is a stock market education?",
+      "answer": "Education helps investors understand how markets work."
+    }
+  ]
+}
